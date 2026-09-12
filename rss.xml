@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>周周新零售</title>
-    <link>https://cloudblog.de5.net</link>
+    <link>https://topmonstar.github.io/gitpress-web</link>
     <description>专注实体店线上增长！</description>
     <language>zh-CN</language>
     <generator>GitPress</generator>
     <item>
       <title>你好,世界</title>
-      <link>https://cloudblog.de5.net/posts/hello-world/</link>
-      <guid>https://cloudblog.de5.net/posts/hello-world/</guid>
+      <link>https://topmonstar.github.io/gitpress-web/posts/hello-world/</link>
+      <guid>https://topmonstar.github.io/gitpress-web/posts/hello-world/</guid>
       <pubDate>Sat, 12 Sep 2026 01:51:54 GMT</pubDate>
       <description>我在 GitPress 上的第一篇文章。</description>
     </item>
