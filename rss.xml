@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>今日心选</title>
-    <link>https://nbday.de5.net</link>
+    <link>https://topmonstar.github.io/gitpress-web</link>
     <description>源头好物买的值！</description>
     <language>zh-CN</language>
     <generator>GitPress</generator>
     <item>
       <title>你好,世界</title>
-      <link>https://nbday.de5.net/posts/hello-world/</link>
-      <guid>https://nbday.de5.net/posts/hello-world/</guid>
+      <link>https://topmonstar.github.io/gitpress-web/posts/hello-world/</link>
+      <guid>https://topmonstar.github.io/gitpress-web/posts/hello-world/</guid>
       <pubDate>Sat, 12 Sep 2026 01:51:54 GMT</pubDate>
       <description>我在 GitPress 上的第一篇文章。</description>
     </item>
